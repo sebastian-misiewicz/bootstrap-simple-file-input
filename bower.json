@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-simple-file-input",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sebastian-misiewicz/bootstrap-simple-file-input",
+  "authors": [
+    "Sebastian Misiewicz <sebastian@sebastianmisiewicz.info>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": ">=3.0.0",
+    "jquery": ">=1.11.0 < 2.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
